@@ -1,2 +1,2 @@
 # Docker-Compose
-Docker-Compose file with wordpress and db container
+Created a Docker-Compose file with wordpress and db container
